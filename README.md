@@ -27,7 +27,7 @@ Laden Sie die Dateien herunter und pflegen Sie diese in ein Unity-Projekt der Ve
 
 * Cameras_3D Models
 * Cameras_Textures
-* Font
+* Cameras_Filters
 
 ___
 
