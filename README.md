@@ -1,6 +1,4 @@
 
-# Veröffentlichung von Projektergebnissen
-
 ## On Set – Film in Berlin
 
 ## Kurzbeschreibung
