@@ -3,7 +3,7 @@
 
 ## Kurzbeschreibung
 
-Die standortbasierte App „On Set – Film in Berlin“ vermittelt Filmgeschichte an drei bedeutenden Berliner Drehorten. Mit Augmented Reality (AR) wird der heutige Ort um Filmkulissen, Sammlungsobjekte, Filmausschnitte oder Setfotos erweitert. Über einen Audioguide, Klapptexte und vor Ort erscheinende Filmschaffende gibt die App Einblicke in Filmproduktionen von den 1920-ern bis heute. Drei historische Kameras aus den 1920er- und 1980er-Jahren werden als 3D-Objekte eingeblendet. Dazu werden Kamerafilter zur Verfügung gestellt, die die Kameraästhetik der jeweiligen Filmkamera imitieren. Die Nutzer*innen können Fotos und Videos mit den gezeigten AR-Objekten oder Filtern aufnehmen und sie aus der App heraus teilen. Die in der App gezeigten Kameramodelle und -filter werden hier zur Nachnutzung bereit gestellt.
+Die standortbasierte App „On Set – Film in Berlin“ vermittelt Filmgeschichte an drei bedeutenden Berliner Drehorten. Mit Augmented Reality (AR) wird der heutige Ort um Filmkulissen, Sammlungsobjekte, Filmausschnitte oder Setfotos erweitert. Über einen Audioguide, Klapptexte und vor Ort erscheinende Filmschaffende gibt die App Einblicke in Filmproduktionen von den 1920ern bis heute. Drei historische Kameras aus den 1920er- und 1980er-Jahren werden als 3D-Objekte eingeblendet. Dazu werden Kamerafilter zur Verfügung gestellt, die die Kameraästhetik der jeweiligen Filmkamera imitieren. Die Nutzer*innen können Fotos und Videos mit den gezeigten AR-Objekten oder Filtern aufnehmen und sie aus der App heraus teilen. Die in der App gezeigten Kameramodelle und -filter werden hier zur Nachnutzung bereitgestellt.
 
 ___
 ## Entstehungskontext & Förderhinweis
@@ -37,11 +37,14 @@ ___
 
 ## Credits
 
-Deutsche Kinemathek
-ZAUBAR UG (haftungsbeschränkt)
+* Lizenzgeberin für die hier bereitgstellten nachnutzbaren Inhalte: Stiftung Deutsche Kinemathek – Museum für Film und Fernsehen
+* 3D-Modellierung und Erstellung Kamerafilter: ZAUBAR UG (haftungsbeschränkt)
+* Auftraggeberin: Stiftung Deutsche Kinemathek – Museum für Film und Fernsehen
+* Konzeption & Umsetzung: Stiftung Deutsche Kinemathek – Museum für Film und Fernsehen, ZAUBAR UG (haftungsbeschränkt)
+* Entwicklung: ZAUBAR UG (haftungsbeschränkt)
 
 ___
 
 ## Lizenz
 
-Copyleft-Lizenz
+CC BY 4.0 (Lizenz mit Namensnennung)
