@@ -47,14 +47,14 @@ ___
 
 ## Lizenz
 
-[Die Inhalte dieses Repositoriums sind lizensiert unter einer Creative Commones Namensnennung 4.0 International Lizenz / CC BY 4.0)(https://creativecommons.org/licenses/by/4.0/deed.de)
-Sie dürfen:
-Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten
-Bearbeiten — das Material remixen, verändern und darauf aufbauen
-und zwar für beliebige Zwecke, sogar kommerziell. 
-Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten.
-Unter folgenden Bedingungen:
-Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
-Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+Die Inhalte dieses Repositoriums sind lizensiert unter einer [Creative Commons Namensnennung 4.0 International Lizenz / CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+
+Sie dürfen:</br>
+**Teilen** — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</br>
+**Bearbeiten** — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell. </br>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten.</br>
+Unter folgenden Bedingungen:</br>
+**Namensnennung** — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.</br>
+**Keine weiteren Einschränkungen** — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
 
 
